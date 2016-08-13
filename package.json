@@ -1,5 +1,5 @@
 {
-  "name": "firebase-server",
+  "name": "superhuman-firebase-server",
   "version": "0.6.0",
   "description": "Simple Firebase Server",
   "main": "index.js",
